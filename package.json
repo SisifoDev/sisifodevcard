@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Héctor Manuel Perdomo <manuelperdomo1710@icloud.com> (http://sisifodev.com)",
   "license": "MIT",
   "files": [
     "bin/card.js",
